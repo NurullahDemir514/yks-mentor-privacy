@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.14"
+        android:scaleY="0.14"
+        android:translateX="27"
+        android:translateY="27">
+        <!-- YKS yazısı -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M120,240 l40,-80 h30 l-40,80 l40,80 h-30 l-40,-80 Z
+                            M200,160 h30 v160 h-30 Z
+                            M280,240 l40,-80 h30 l-40,80 l40,80 h-30 l-40,-80 Z"/>
+        <!-- Mentor yazısı -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M100,380 h25 v-60 l30,40 l30,-40 v60 h25 v-100 h-25 l-30,40 l-30,-40 h-25 Z
+                            M220,380 v-100 h80 v20 h-55 v20 h50 v20 h-50 v20 h55 v20 Z
+                            M320,380 v-100 h25 v40 h30 v-40 h25 v100 h-25 v-40 h-30 v40 Z
+                            M420,380 v-100 h25 v80 h55 v20 Z"/>
+    </group>
+</vector> 

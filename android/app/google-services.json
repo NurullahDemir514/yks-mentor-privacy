@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984124776828",
+    "project_id": "yks-mentor",
+    "storage_bucket": "yks-mentor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984124776828:android:cb8df7b695e157c6cd84f9",
+        "android_client_info": {
+          "package_name": "com.company.yks_mentor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_l8e69VaUQaqWx8OUOfFhwt4UVgOG6iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
